@@ -1,1 +1,1 @@
-# rolldice
+# Run using ./gradlew bootRun -Pdev
